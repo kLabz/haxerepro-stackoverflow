@@ -809,8 +809,8 @@
 {"textDocument":{"version":605,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":427,"character":8},"end":{"line":427,"character":8}},"text":" "}]}
 +21840.8s - didChangeTextDocument
 {"textDocument":{"version":606,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":427,"character":9},"end":{"line":427,"character":9}},"text":"m"}]}
-+21840.8s > serverRequest 476 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":475,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +21840.8s > serverRequest 476 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":475,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +21842.8s - didChangeTextDocument
 {"textDocument":{"version":607,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":427,"character":10},"end":{"line":427,"character":10}},"text":"a"}]}
 +21844.8s - didChangeTextDocument
@@ -830,8 +830,8 @@
 
 +22171.1s - didChangeTextDocument
 {"textDocument":{"version":612,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":430,"character":2},"end":{"line":430,"character":2}},"text":"// "}]}
-+22171.1s > serverRequest 484 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":483,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +22171.1s > serverRequest 484 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":483,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 # +22178.5s > serverRequest "@diagnostics"
 # ["--cwd","/git/haxe-libs/haxeserver","-D","display-details","--no-output","repro.hxml","--display","/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx@0@diagnostics"]
 +22590s - didChangeTextDocument
@@ -846,8 +846,8 @@
 ["--cwd /git/haxe-libs/haxeserver","repro.hxml","-D","some-compile-only-define"]
 +22805.2s - didChangeTextDocument
 {"textDocument":{"version":618,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":425,"character":13},"end":{"line":425,"character":13}},"text":"m"}]}
-+22805.2s > serverRequest 487 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":486,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +22805.2s > serverRequest 487 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":486,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +22806.6s - didChangeTextDocument
 {"textDocument":{"version":619,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":425,"character":14},"end":{"line":425,"character":14}},"text":"a"}]}
 +22808.9s - didChangeTextDocument
@@ -1432,8 +1432,8 @@
 ["--cwd /git/haxe-libs/haxeserver","repro.hxml","-D","some-compile-only-define"]
 +27059s - didChangeTextDocument
 {"textDocument":{"version":1160,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":1,"range":{"start":{"line":301,"character":49},"end":{"line":302,"character":0}},"text":"\n\t\n"}]}
-+27059s > serverRequest 822 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":821,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +27059s > serverRequest 822 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":821,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +27060.5s - didChangeTextDocument
 {"textDocument":{"version":1161,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":302,"character":1},"end":{"line":302,"character":1}},"text":"\t"}]}
 +27062s - didChangeTextDocument
@@ -1626,8 +1626,8 @@
 ["--cwd /git/haxe-libs/haxeserver","repro.hxml","-D","some-compile-only-define"]
 +31155.3s - didChangeTextDocument
 {"textDocument":{"version":1345,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":1,"range":{"start":{"line":214,"character":23},"end":{"line":215,"character":0}},"text":"\n\t\t\t\t\t\t\n"}]}
-+31155.3s > serverRequest 940 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":939,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +31155.3s > serverRequest 940 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":939,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +31156.8s - didChangeTextDocument
 {"textDocument":{"version":1346,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":215,"character":6},"end":{"line":215,"character":6}},"text":"\t"}]}
 +31157.8s - didChangeTextDocument
@@ -1726,8 +1726,8 @@
 ["--cwd /git/haxe-libs/haxeserver","repro.hxml","-D","some-compile-only-define"]
 +32180.6s - didChangeTextDocument
 {"textDocument":{"version":1404,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":1,"range":{"start":{"line":218,"character":68},"end":{"line":219,"character":0}},"text":"\n\t\t\t\t\t\t\tvar path = maybeConvertPath(event.uri.toFsPath().toString());\n"}]}
-+32180.6s > serverRequest 1005 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":1004,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +32180.6s > serverRequest 1005 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":1004,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +32203.8s - didChangeTextDocument
 {"textDocument":{"version":1405,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":27,"range":{"start":{"line":218,"character":7},"end":{"line":218,"character":34}},"text":""}]}
 +32208.2s - didChangeTextDocument
@@ -1744,8 +1744,8 @@
 ["--cwd /git/haxe-libs/haxeserver","repro.hxml","-D","some-compile-only-define"]
 +35014.7s - didChangeTextDocument
 {"textDocument":{"version":1412,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":1,"range":{"start":{"line":226,"character":39},"end":{"line":227,"character":0}},"text":"\n\t\t\t\t\t\t\t\n"}]}
-+35014.7s > serverRequest 1014 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":1013,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +35014.7s > serverRequest 1014 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":1013,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +35017.3s - didChangeTextDocument
 {"textDocument":{"version":1413,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":227,"character":7},"end":{"line":227,"character":7}},"text":"n"}]}
 +35019s - didChangeTextDocument
@@ -1766,8 +1766,8 @@
 ["--cwd /git/haxe-libs/haxeserver","repro.hxml","-D","some-compile-only-define"]
 +35594s - didChangeTextDocument
 {"textDocument":{"version":1424,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":4,"range":{"start":{"line":222,"character":37},"end":{"line":222,"character":41}},"text":""}]}
-+35594s > serverRequest 1025 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":1024,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +35594s > serverRequest 1025 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":1024,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +35595.7s - didChangeTextDocument
 {"textDocument":{"version":1425,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":222,"character":37},"end":{"line":222,"character":37}},"text":"p"}]}
 +35597.3s - didChangeTextDocument
@@ -1782,8 +1782,8 @@
 ["--cwd /git/haxe-libs/haxeserver","repro.hxml","-D","some-compile-only-define"]
 +36649.3s - didChangeTextDocument
 {"textDocument":{"version":1430,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":69,"range":{"start":{"line":219,"character":0},"end":{"line":220,"character":0}},"text":""}]}
-+36649.3s > serverRequest 1032 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":1031,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +36649.3s > serverRequest 1032 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":1031,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +36658.7s - didChangeTextDocument
 {"textDocument":{"version":1431,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":1,"range":{"start":{"line":222,"character":0},"end":{"line":223,"character":0}},"text":"\n\t\t\t\t\t\t\tvar path = maybeConvertPath(event.uri.toFsPath().toString());\n"}]}
 +36670.3s > serverRequest "@diagnostics"
@@ -1794,8 +1794,8 @@
 # ["--cwd","/git/haxe-libs/haxeserver","-D","display-details","--no-output","repro.hxml","--display","/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx@0@diagnostics"]
 +38612.3s - didChangeTextDocument
 {"textDocument":{"version":1433,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":318,"character":23},"end":{"line":318,"character":23}},"text":","}]}
-+38612.3s > serverRequest 1034 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":1033,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +38612.3s > serverRequest 1034 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":1033,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +38613.5s - didChangeTextDocument
 {"textDocument":{"version":1434,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":318,"character":24},"end":{"line":318,"character":24}},"text":" "}]}
 +38615.5s - didChangeTextDocument
@@ -1816,8 +1816,8 @@
 ["--cwd /git/haxe-libs/haxeserver","repro.hxml","-D","some-compile-only-define"]
 +39316.3s - didChangeTextDocument
 {"textDocument":{"version":1443,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":1,"range":{"start":{"line":318,"character":33},"end":{"line":319,"character":0}},"text":"\n\t\tgit(\"checkout\", gitRef);\n"}]}
-+39316.3s > serverRequest 1044 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":1043,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +39316.3s > serverRequest 1044 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":1043,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +39320.3s - didChangeTextDocument
 {"textDocument":{"version":1445,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":8,"range":{"start":{"line":318,"character":23},"end":{"line":318,"character":31}},"text":""}]}
 +39329.5s - didChangeTextDocument
@@ -2188,8 +2188,8 @@
 ["--cwd /git/haxe-libs/haxeserver","repro.hxml","-D","some-compile-only-define"]
 +41558.6s - didChangeTextDocument
 {"textDocument":{"version":1673,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":1,"range":{"start":{"line":51,"character":19},"end":{"line":52,"character":0}},"text":"\n\tvar gitRef:String;\n"}]}
-+41558.6s > serverRequest 1273 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":1272,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +41558.6s > serverRequest 1273 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":1272,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +41567.3s - didChangeTextDocument
 {"textDocument":{"version":1674,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":3,"range":{"start":{"line":52,"character":8},"end":{"line":52,"character":11}},"text":""}]}
 +41569.1s - didChangeTextDocument
@@ -2314,8 +2314,8 @@
 ["--cwd /git/haxe-libs/haxeserver","repro.hxml","-D","some-compile-only-define"]
 +43002.3s - didChangeTextDocument
 {"textDocument":{"version":1738,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":30,"range":{"start":{"line":216,"character":0},"end":{"line":217,"character":0}},"text":""}]}
-+43002.3s > serverRequest 1343 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":1342,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +43002.3s > serverRequest 1343 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":1342,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +43010.2s - didChangeTextDocument
 {"textDocument":{"version":1739,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":47,"range":{"start":{"line":218,"character":0},"end":{"line":219,"character":0}},"text":""}]}
 +43021.2s - didChangeTextDocument
@@ -3064,8 +3064,8 @@
 ["--cwd /git/haxe-libs/haxeserver","repro.hxml","-D","some-compile-only-define"]
 +49811.2s - didChangeTextDocument
 {"textDocument":{"version":2265,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":9,"range":{"start":{"line":314,"character":42},"end":{"line":314,"character":51}},"text":""}]}
-+49811.2s > serverRequest 1825 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":1824,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +49811.2s > serverRequest 1825 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":1824,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +49812.7s - didChangeTextDocument
 {"textDocument":{"version":2266,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":314,"character":42},"end":{"line":314,"character":42}},"text":"d"}]}
 +49814.2s - didChangeTextDocument
@@ -3082,8 +3082,8 @@
 ["--cwd /git/haxe-libs/haxeserver","repro.hxml","-D","some-compile-only-define"]
 +50060.1s - didChangeTextDocument
 {"textDocument":{"version":2271,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":315,"character":42},"end":{"line":315,"character":42}},"text":"r"}]}
-+50060.1s > serverRequest 1831 "server/invalidate"
-["--display","{\"jsonrpc\":\"2.0\",\"id\":1830,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
+# +50060.1s > serverRequest 1831 "server/invalidate"
+# ["--display","{\"jsonrpc\":\"2.0\",\"id\":1830,\"method\":\"server/invalidate\",\"params\":{\"file\":\"/git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx\"}}"]
 +50061.6s - didChangeTextDocument
 {"textDocument":{"version":2272,"uri":"file:///git/haxe-libs/haxeserver/src/haxeserver/repro/HaxeRepro.hx"},"contentChanges":[{"rangeLength":0,"range":{"start":{"line":315,"character":43},"end":{"line":315,"character":43}},"text":"o"}]}
 +50063.2s - didChangeTextDocument
