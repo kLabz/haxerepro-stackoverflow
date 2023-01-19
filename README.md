@@ -12,7 +12,7 @@ haxelib newrepo
 haxelib install --always install.hxml
 ```
 
-You can then run [haxereproo tools](https://github.com/kLabz/haxerepro) on this recording, from `haxeserver` folder:
+You can then run [haxerepro tools](https://github.com/kLabz/haxerepro) on this recording, from `haxeserver` folder:
 
 ```
 node /path/to/haxerepro/bin/replay.js --path /path/to/haxerepro-stackoverflow --file repro-min.log
